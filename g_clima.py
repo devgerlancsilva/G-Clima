@@ -1,5 +1,6 @@
 """
 g-clima — Gerador de Relatório do Clima
+Desenvolvido em parceria com devgerlancsilva & lanzinho007.
 Busca dados de temperatura de uma cidade e salva um gráfico em PNG e relatório PDF.
 Utiliza a API gratuita Open-Meteo.
 """
