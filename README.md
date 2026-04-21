@@ -9,7 +9,7 @@ Aplicativo profissional em Python para análise climática avançada — **sem p
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades...
 
 - 🔍 **Busca Avançada**: Temperatura, umidade e precipitação.
 - 🔮 **Previsão**: Veja o clima para os próximos 7–16 dias.
