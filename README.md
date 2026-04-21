@@ -1,16 +1,23 @@
 # 🌤 g-clima
 
-Aplicativo em Python que busca dados reais de temperatura de qualquer cidade e salva um gráfico bonito em PNG — **sem precisar de chave de API**.
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Build Status](https://github.com/devgerlancsilva/G-Clima/actions/workflows/python-app.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Pair Extraordinary](https://img.shields.io/badge/Pair-Extraordinary-gold.svg)
+
+Aplicativo profissional em Python para análise climática avançada — **sem precisar de chave de API**.
 
 ---
 
-- 🔍 **Busca Avançada**: Temperatura, umidade e precipitação
-- 🔮 **Previsão**: Veja o clima para os próximos 7–16 dias
-- 📊 **Comparação**: Compare o clima entre duas cidades em um único gráfico
-- 📄 **Relatório PDF**: Gera um PDF profissional com gráficos e estatísticas
-- 💾 **Exportação JSON**: Dados brutos completos para desenvolvedores
-- 🌎 **Global**: Funciona com qualquer cidade do mundo via Geocoding
-- 🆓 **API Gratuita**: Usa [Open-Meteo](https://open-meteo.com/) sem necessidade de chave
+## ✨ Funcionalidades
+
+- 🔍 **Busca Avançada**: Temperatura, umidade e precipitação.
+- 🔮 **Previsão**: Veja o clima para os próximos 7–16 dias.
+- 📊 **Comparação**: Compare o clima entre duas cidades em um único gráfico.
+- 📄 **Relatório PDF**: Gera um PDF profissional com gráficos e estatísticas.
+- 💾 **Exportação JSON**: Dados brutos completos para desenvolvedores.
+- 🧪 **Testes Automatizados**: Suite de testes com `pytest`.
+- 🚀 **CI/CD**: Integração contínua com GitHub Actions.
 
 ---
 
