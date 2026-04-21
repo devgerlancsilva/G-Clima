@@ -21,7 +21,7 @@ Aplicativo profissional em Python para análise climática avançada — **sem p
 
 ---
 
-## 📦 Instalação
+## 📦 Instalação...
 
 ### 1. Clone o repositório
 ```bash
